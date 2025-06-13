@@ -56,10 +56,9 @@ Nếu bạn đã có IP Camera, hãy thực hiện bước sau:
 ```bash
 python rtsp.py
 ```
-
----
-
 # Sau khi setup xong
 - Thêm ảnh người bạn muốn nhận diện vào folder faces_dataset 
 - Lưu ý: Phải đánh số các ảnh 1, 2, 3 ...
 - Thêm ảnh theo cấu trúc thư mục : faces_dataset/"ten-nguoi"/1.jpg...
+
+---
